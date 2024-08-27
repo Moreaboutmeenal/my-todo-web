@@ -1,2 +1,5 @@
-delete
-divide
+plant
+trees
+mountains
+rivers
+natural
