@@ -1,5 +1,9 @@
-plant
 trees
 mountains
 rivers
 natural
+glaciers
+springs
+clouds
+sea
+
